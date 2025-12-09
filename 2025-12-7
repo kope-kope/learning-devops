@@ -1,0 +1,28 @@
+## WIL
+1. Introduction to Linux:
+Linux is the foundation of Devops. Linkus is absolutely essential for understanding.
+Linux is an open source software, and by open source, it means that it is code that be inspected, modified and enhannced by others.
+Linux is a Unix-line kernel?
+The kernel is the core of an OS. It is the layer betwen hardware and software. it transaltes requests into the instructions the hardware undersands.
+
+A unix-like kernel shares these characteristics:
+1. Everything is a file — devices, processes, and network connections are represented as files
+2. Small, focused programs — tools do one thing well and can be combined
+3. Hierarchical file system — a single root (/) with directories branching from it
+4. Shell-based interface — command-line shells for interaction
+5. Multi-user, multi-tasking — supports multiple users and processes
+6. Portable — written in C, making it easier to port to different hardware
+
+Now there are Linux Distro?
+A Linux distro is a complete OS built around the linux kernel, packaged with sofrtware tools and desktop. The kernel is the engine, and the distribution is like the complete car (engine + body + interior + features.). It inclues the kernel, system tools, package manager, desktop enviroment, default applications, config and defaults.
+
+RPM based uses red hat package manager files, for example Red Hat, CentOS, Fedora, Amazon Linux. Debian-based uses .deb files and they include Debian, Ubuntu and Lunux mint.
+
+RPM-based is common in enterprise/red-hat environmets while Debian-based is popular cloud and deplyment.
+
+I also learnt about the common strucutre of CentOs of a linux OS. Everuthing is a file in liinux. Differences between the relative and absolute path.
+
+# WID
+I did a lot of file operations on linux. Navigating a directoiry, creating one, using the vim editor, copying and pasting in the vim editor. Learning filetypes. 
+
+Basic Linux syntax of commands, options, and arguments.
